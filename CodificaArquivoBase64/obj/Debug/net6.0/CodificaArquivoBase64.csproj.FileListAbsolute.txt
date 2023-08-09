@@ -1,0 +1,15 @@
+D:\DesafioInteliTrader\CodificaArquivoBase64\bin\Debug\net6.0\CodificaArquivoBase64.exe
+D:\DesafioInteliTrader\CodificaArquivoBase64\bin\Debug\net6.0\CodificaArquivoBase64.deps.json
+D:\DesafioInteliTrader\CodificaArquivoBase64\bin\Debug\net6.0\CodificaArquivoBase64.runtimeconfig.json
+D:\DesafioInteliTrader\CodificaArquivoBase64\bin\Debug\net6.0\CodificaArquivoBase64.dll
+D:\DesafioInteliTrader\CodificaArquivoBase64\bin\Debug\net6.0\CodificaArquivoBase64.pdb
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.csproj.AssemblyReference.cache
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.AssemblyInfoInputs.cache
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.AssemblyInfo.cs
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.csproj.CoreCompileInputs.cache
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.dll
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\refint\CodificaArquivoBase64.dll
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.pdb
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\CodificaArquivoBase64.genruntimeconfig.cache
+D:\DesafioInteliTrader\CodificaArquivoBase64\obj\Debug\net6.0\ref\CodificaArquivoBase64.dll

@@ -1,0 +1,15 @@
+D:\DesafioInteliTrader\BigIntMultiplication\bin\Debug\net6.0\BigIntMultiplication.exe
+D:\DesafioInteliTrader\BigIntMultiplication\bin\Debug\net6.0\BigIntMultiplication.deps.json
+D:\DesafioInteliTrader\BigIntMultiplication\bin\Debug\net6.0\BigIntMultiplication.runtimeconfig.json
+D:\DesafioInteliTrader\BigIntMultiplication\bin\Debug\net6.0\BigIntMultiplication.dll
+D:\DesafioInteliTrader\BigIntMultiplication\bin\Debug\net6.0\BigIntMultiplication.pdb
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.csproj.AssemblyReference.cache
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.AssemblyInfoInputs.cache
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.AssemblyInfo.cs
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.csproj.CoreCompileInputs.cache
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.dll
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\refint\BigIntMultiplication.dll
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.pdb
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\BigIntMultiplication.genruntimeconfig.cache
+D:\DesafioInteliTrader\BigIntMultiplication\obj\Debug\net6.0\ref\BigIntMultiplication.dll

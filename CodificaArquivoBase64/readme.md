@@ -1,0 +1,2 @@
+Aqui a única coisa que precias para rodar os diferentes projetos é clicar com o botão direito em cima do projeto desejado e clicar em "Set as a startup project" 
+com isso o projeto selecionado rodará normalmente.

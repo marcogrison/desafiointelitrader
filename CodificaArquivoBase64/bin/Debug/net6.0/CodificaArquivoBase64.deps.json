@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CodificaArquivoBase64/1.0.0": {
+        "runtime": {
+          "CodificaArquivoBase64.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodificaArquivoBase64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
